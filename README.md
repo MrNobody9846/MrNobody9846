@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.adariyash.site/"><img src="https://img.shields.io/badge/Website-adariyash.site-4CAF50?style=flat"/></a>
   <a href="mailto:y9yashwanth@gmail.com"><img src="https://img.shields.io/badge/Email-y9yashwanth%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adariyash/"><img src="https://img.shields.io/badge/LinkedIn-adariyash-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/adariyashwanth"><img src="https://img.shields.io/badge/Kaggle-Competitions%20Expert-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
@@ -90,5 +91,5 @@ AI copilot with RAG, enterprise search infrastructure, production ML on Azure.
 
 <p align="center">
   <i>Open to backend and AI engineering opportunities. Let's build something.</i><br/>
-  <a href="mailto:y9yashwanth@gmail.com">y9yashwanth@gmail.com</a>
+  <a href="https://www.adariyash.site/">adariyash.site</a> • <a href="mailto:y9yashwanth@gmail.com">y9yashwanth@gmail.com</a>
 </p>
