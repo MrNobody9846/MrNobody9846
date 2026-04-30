@@ -18,7 +18,7 @@
 - Previously at **BlinqIO** — architected auth services (SSO/RBAC for 3K+ users), distributed storage pipelines, and fine-tuned multimodal LLMs for browser automation
 - **Edgeverve Systems** — built AI copilot platform with RAG, semantic search over millions of records (OpenSearch / PGVector), and production ML pipelines on Azure
 - **Kaggle Competitions Expert** — Silver Medal, 38th / 2,706 teams in Automated Essay Scoring 2.0 (QWK: 0.835)
-- B.Tech, Computer Science — **IIT Guwahati**
+- B.Tech — **IIT Guwahati**
 
 ---
 
